@@ -6,15 +6,6 @@
   background-color: black;
   color: white;
 }
-#equilateral {
-  display: none;
-}
-#isoceles {
-  display: none;
-}
-#scalene {
-  display: none;
-}
-#not-a-triangle {
+#equilateral, #isosceles, #scalene, #not-a-triangle {
   display: none;
 }
