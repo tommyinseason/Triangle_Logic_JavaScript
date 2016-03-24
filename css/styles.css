@@ -1,0 +1,20 @@
+#sides {
+  width: 300px;
+}
+.jumbotron {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+#equilateral {
+  display: none;
+}
+#isoceles {
+  display: none;
+}
+#scalene {
+  display: none;
+}
+#not-a-triangle {
+  display: none;
+}
